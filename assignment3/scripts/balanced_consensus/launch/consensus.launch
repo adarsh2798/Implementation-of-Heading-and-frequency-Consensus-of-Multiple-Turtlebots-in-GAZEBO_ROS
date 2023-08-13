@@ -1,0 +1,8 @@
+<launch>
+    <node name="bot_1" pkg="assignment3" type="bot_1.py" output="screen"/>
+    <node name="bot_2" pkg="assignment3" type="bot_2.py" output="screen"/>
+    <node name="bot_3" pkg="assignment3" type="bot_3.py" output="screen"/>
+    <node name="bot_4" pkg="assignment3" type="bot_4.py" output="screen"/>
+    <node name="laplacian_adjacency_publisher" pkg="assignment3" type="laplacian_adjacency.py" output="screen"/>
+</launch>
+

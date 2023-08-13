@@ -1,0 +1,8 @@
+<launch>
+    <node name="bot_1_sync" pkg="assignment3" type="bot_1_sync.py" output="screen"/>
+    <node name="bot_2_sync" pkg="assignment3" type="bot_2_sync.py" output="screen"/>
+    <node name="bot_3_sync" pkg="assignment3" type="bot_3_sync.py" output="screen"/>
+    <node name="bot_4_sync" pkg="assignment3" type="bot_4_sync.py" output="screen"/>
+    <node name="laplacian_adjacency_publisher" pkg="assignment3" type="laplacian_adjacency_sync.py" output="screen"/>
+</launch>
+
