@@ -20,5 +20,9 @@ Here one can clearly see all the 4 turtlebots converge to same heading.
 
 Here, all the 4 turtlebots converge to same heading and further rotate with same angualar velocity there onwards. The 1st figure below shows teh convergence of angualar velocity to same value. The 2nd image shows the heading of 4 turtlebots. One can see eventually they converge and vary together.
 <p align="center">
-  <img src="https://github.com/adarsh2798/Implementation-of-Heading-and-frequency-Consensus-of-Multiple-Turtlebots-in-GAZEBO_ROS/blob/main/assignment3/simulation_results/consensus_proper.png" />
+  <img src="https://github.com/adarsh2798/Implementation-of-Heading-and-frequency-Consensus-of-Multiple-Turtlebots-in-GAZEBO_ROS/blob/main/assignment3/simulation_results/freq_sync_w.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/adarsh2798/Implementation-of-Heading-and-frequency-Consensus-of-Multiple-Turtlebots-in-GAZEBO_ROS/blob/main/assignment3/simulation_results/freq_sync_w.png" />
 </p>
