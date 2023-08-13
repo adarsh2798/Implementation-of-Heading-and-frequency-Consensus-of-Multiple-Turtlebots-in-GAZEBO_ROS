@@ -2,4 +2,6 @@
 
 In this project, Consensus of multi-agent system is implemenetd. A multiagent system (MAS) can be reprsented by a graph, with a set of nodes (reprsenting the agents) and edges (reprsents the information exchange between agents). By analyzing the Laplacian and adjacency matrices of the underlying graph, various control laws can be developed and their convergence can be proved.
 
-Consensus means when all the states of all the agents converge to same values. In this project, Heading and frequency consensus is implemented. 4 turtlebots were used in GAZEBO. 
+Consensus means when all the states of all the agents converge to same values. In this project, Heading and frequency consensus is implemented. 4 turtlebots were used in GAZEBO. A simple undirected underlying graph was used. 4 separate python scripts were used for each turtlebot/Node in the MAS graph. Each turtlebot subscibed to it's neighbor's /odom topic.
+
+To see full details about this implemenation see the [report]()
