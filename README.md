@@ -14,5 +14,5 @@ Here one can clearly see all the 4 turtlebots converge to same heading.
   <img src="https://github.com/adarsh2798/Implementation-of-Heading-and-frequency-Consensus-of-Multiple-Turtlebots-in-GAZEBO_ROS/blob/main/assignment3/simulation_results/consensus_proper.png" />
 </p>
 
-
+![Alt Text](https://github.com/adarsh2798/Implementation-of-Heading-and-frequency-Consensus-of-Multiple-Turtlebots-in-GAZEBO_ROS/blob/main/assignment3/simulation_results/consesnus_heading_1.gif)
 
