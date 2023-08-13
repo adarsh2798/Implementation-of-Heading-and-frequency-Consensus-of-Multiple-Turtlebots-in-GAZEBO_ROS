@@ -24,5 +24,5 @@ Here, all the 4 turtlebots converge to same heading and further rotate with same
 </p>
 
 <p align="center">
-  <img src="https://github.com/adarsh2798/Implementation-of-Heading-and-frequency-Consensus-of-Multiple-Turtlebots-in-GAZEBO_ROS/blob/main/assignment3/simulation_results/freq_sync_w.png" />
+  <img src="https://github.com/adarsh2798/Implementation-of-Heading-and-frequency-Consensus-of-Multiple-Turtlebots-in-GAZEBO_ROS/blob/main/assignment3/simulation_results/freq_sync.png" />
 </p>
